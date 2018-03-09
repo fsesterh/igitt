@@ -1,4 +1,2 @@
 # igitt
-testing git
-testing some more
-testing is fun...
+this is the end...for now
